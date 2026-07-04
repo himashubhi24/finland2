@@ -1,0 +1,13 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.session
+*.session-journal
+*.log
+filesharingbot.txt
+payment_screenshots/
+*.bak
+config.py.bak
+database/database.py.bak
+plugins/*.py.bak
